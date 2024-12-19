@@ -1,4 +1,4 @@
 name: 1password
 
 project_files:
-- docker-compose.1password.yaml
+  - docker-compose.1password.yaml
